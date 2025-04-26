@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Scouting_Fleur_de_Lis.svg/200px-Scouting_Fleur_de_Lis.svg.png" width="100px">
 </p>
 
-<h1 align="center" style="color:#006633;">Olá! Eu sou o Enrico 👋</h1>
+<h1 align="center" style="color:#006633">Olá! Eu sou o Enrico 👋</h1>
 
 <p align="center">
   <b>Escoteiro, Desenvolvedor e entusiasta da tranquilidade da natureza e da organização do código!</b>
